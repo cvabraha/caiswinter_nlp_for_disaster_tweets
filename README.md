@@ -52,5 +52,5 @@ Deploying accurate NLP classification for disaster tweets has several real-world
 * Analyze specific keywords (e.g., "crash", "deluge") that yield the highest error rates in order to create highly specific preprocessing rules.
 
 ## Team
-* **Authors:** Maymoona Khan, Tina Abraham, Jacques Vlok
+* **Project Members:** Maymoona Khan, Tina Abraham, Jacques Vlok
 * **Curriculum Leads:** Angela Zhuang & Shreeya Chand
